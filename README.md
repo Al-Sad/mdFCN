@@ -81,9 +81,9 @@ The developed mdFCN package contains various atlas and head models used for the 
 ## Results:
 The developed mdFCN package contains the following data that are in specific folders within *Results\HC* or *Results\AED* directories:
 ### FC:
--   This folder holds the output of the main script *Main_1_FC.m*; the FC for each neonate in the HC and AED groups.
--   Alternatively, the FCs of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/ERoEGI1JET1JriyvItu7sDcBh27eTqihky6cY1BSY-PHrQ?e=Wz7VSR
--   Alternatively, the FCs of the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EfRENcju9JJLoxtC2hAUGZgBSQisD_WXuGcDV6TGwoqXog?e=mpN7JP
+-   This folder holds the output of the main script *Main_1_FC.m*; the FC for each neonate in the HC and AED groups. Alternatively, the FCs can be downloaded from
+	HC: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/ERoEGI1JET1JriyvItu7sDcBh27eTqihky6cY1BSY-PHrQ?e=Wz7VSR
+	AED: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EfRENcju9JJLoxtC2hAUGZgBSQisD_WXuGcDV6TGwoqXog?e=mpN7JP,
 ### NMF:
 -   This folder contains the output of the main script *Main_3_extraction.m*; the extracted latent networks for short and long-term scores, for the five frequency bands, and for the different model orders.
 -   Alternatively, the extracted networks of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/Ebvj0IVn-T9LpqhKZITmhgMBcbUeCiCyrbBnfCdNT7hEew?e=WhuMmG
