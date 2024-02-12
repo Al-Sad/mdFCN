@@ -28,7 +28,7 @@
 % Last Modification: 12-February-2024
 %
 % Description:
-% It generate masks for the missing scores in each group and each sleep state.
+% It generates masks for the missing scores in each group and each sleep state.
 % Note that the neonates raw EEG and neurocognitive scores are not
 % supplied.
 
