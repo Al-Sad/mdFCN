@@ -1,6 +1,6 @@
 # The multiplex dynamic functional connectivity (mdFCN) MATLAB Package
 The multiplex dynamic functional connectivity network (mdFCN) analysis pipeline for objectively uncovering latent network structures from cortical activity. The material in this repository is provided to supplement the following paper:
-Al-Sa'd, M., Vanhatalo, S. and Tokariev, A., "Multiplex dynamic networks in the newborn brain disclose latent links with neurobehavioral phenotypes"ù, *Human Brain Mapping*, (2024), https://doi.org/10.1002/hbm.26610.
+Al-Sa'd, M., Vanhatalo, S. and Tokariev, A., "Multiplex dynamic networks in the newborn brain disclose latent links with neurobehavioral phenotypes", *Human Brain Mapping*, (2024), https://doi.org/10.1002/hbm.26610.
 ![plot](./Results/hbm26610-fig-0001-m.jpg)
 
 The MATLAB scripts, functions, and data listed in this repository are used to produce results, and supporting figures illustrated in the paper.
@@ -8,9 +8,9 @@ The MATLAB scripts, functions, and data listed in this repository are used to pr
 ## Demo Scripts:
 The developed mdFCN package contains the following demo scripts within its directory:
 ### Demo_1_mdFC_pipeline.m
--   This demo script produces generates the study overview in Fig. 1. Note that the neonateís raw EEG and neurocognitive scores are not supplied, and the code uses random numbers as example.
+-   This demo script produces generates the study overview in Fig. 1. Note that the neonate‚Äôs raw EEG and neurocognitive scores are not supplied, and the code uses random numbers as example.
 ### Demo_2_correlation_analysis.m
--   This demo script generates the correlation analysis results in Fig. 4. Note that the neonateís raw EEG and neurocognitive scores are not supplied, and the code uses random numbers as example. ### Demo_3_multiplexity_analysis.m
+-   This demo script generates the correlation analysis results in Fig. 4. Note that the neonate‚Äôs raw EEG and neurocognitive scores are not supplied, and the code uses random numbers as example. ### Demo_3_multiplexity_analysis.m
 -   This demo script generates the multiplexity analysis results in Fig. 5.
 ### Demo_4_pipeline_verification.m
 -   This demo script generates the mdFCN verification results in Fig. 6.
@@ -18,11 +18,11 @@ The developed mdFCN package contains the following demo scripts within its direc
 ## Main Scripts:
 The developed mdFCN package contains the following main scripts within its directory:
 ### Main_1_FC.m
--   This main script calculates the static and dynamic functional connectivity (FC) of each neonate's EEG. Note that the neonateís raw EEG and neurocognitive scores are not supplied.
+-   This main script calculates the static and dynamic functional connectivity (FC) of each neonate's EEG. Note that the neonate‚Äôs raw EEG and neurocognitive scores are not supplied.
 -   The FCs of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/ERoEGI1JET1JriyvItu7sDcBh27eTqihky6cY1BSY-PHrQ?e=Wz7VSR
 -   The FCs of the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EfRENcju9JJLoxtC2hAUGZgBSQisD_WXuGcDV6TGwoqXog?e=mpN7JP
 ### Main_2_scores.m
--   This main script generates masks for the missing scores in each group and each sleep state. Note that the neonateís raw EEG and neurocognitive scores are not supplied.
+-   This main script generates masks for the missing scores in each group and each sleep state. Note that the neonate‚Äôs raw EEG and neurocognitive scores are not supplied.
 ### Main_3_extraction.m
 -   This main script extracts dynamic FC latent networks by NMF and selects the best model order.
 -   The extracted networks of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/Ebvj0IVn-T9LpqhKZITmhgMBcbUeCiCyrbBnfCdNT7hEew?e=WhuMmG
@@ -32,11 +32,11 @@ The developed mdFCN package contains the following main scripts within its direc
 -   The decomposed networks of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EdGmhXzNFu5Ki1B7HwD6pDIB6pWJmikLaL6fxgy-wkoYew?e=oghBjF
 -   The decomposed networks of the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EU-vQTmDt39NrjGiEUb9dFAB0HBZMf1Wv1PJnm8XwBKwJg?e=JpeXZx
 ### Main_5_reconstruction.m
--   This main script reconstructs the decomposed networks and generates null distributions for all other reconstruction configurations. Note that the neonateís raw EEG and neurocognitive scores are not supplied.
+-   This main script reconstructs the decomposed networks and generates null distributions for all other reconstruction configurations. Note that the neonate‚Äôs raw EEG and neurocognitive scores are not supplied.
 -   The reconstructed networks of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EZiSNevWKkNMmmKeDIY0ZP8BkLcsyqL-T0xk7jYoaoeTrQ?e=sDgIki
 -   The reconstructed networks of the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/Eagqz-gZb1RPjHlC0zkgsucBA8a2SCw7yuW1vI6eBumRCg?e=793hGn
 ### Main_6_system_verification.m
--   This main script verifies the mdFCN analysis pipeline. Note that the neonateís raw EEG and neurocognitive scores are not supplied.
+-   This main script verifies the mdFCN analysis pipeline. Note that the neonate‚Äôs raw EEG and neurocognitive scores are not supplied.
 -   The verified results for the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EdK61BuuZu5IuE-isHp6CoIBMLHjTWWHWGtNQm54GFSj4Q?e=viBYhX
 -   The verified results for the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EbIlt5pdq_dInE1ucgMtF4sBu5g6toR07_a_3ZYAyv-LGA?e=PF6kYW
 
@@ -61,7 +61,7 @@ The developed mdFCN package is comprised of the following MATLAB functions that 
 -   *multiplex_measures.m*: It calculates various measures of structural multiplexity.
 ### Correlation
 -   *corr_density.m*: It calculates the density of significant positive/negative correlations.
--   *make_FDR.m*: It applies multiple comparisons correction using the BenjaminiñHochberg procedure.
+-   *make_FDR.m*: It applies multiple comparisons correction using the Benjamini‚ÄìHochberg procedure.
 -   *partialcorr_score_tensor.m*: It calculates correlation using Spearman's rank coefficient with the infants' conceptional age acting as a covariate. 
 -   *tensor_correct_median.m*: It standardizes the connectivity patterns of every subject by removing their median and setting their median absolute deviation to one.
 ### Plotting
