@@ -1,4 +1,4 @@
-# The multiplex dynamic functional connectivity (mdFCN) MATLAB Package
+# The Multiplex Dynamic Functional Connectivity (mdFCN) MATLAB Package
 The multiplex dynamic functional connectivity network (mdFCN) analysis pipeline for objectively uncovering latent network structures from cortical activity. The material in this repository is provided to supplement the following paper:
 Al-Sa'd, M., Vanhatalo, S. and Tokariev, A., "Multiplex dynamic networks in the newborn brain disclose latent links with neurobehavioral phenotypes", *Human Brain Mapping*, (2024), https://doi.org/10.1002/hbm.26610.
 ![plot](./Results/hbm26610-fig-0001-m.jpg)
