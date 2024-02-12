@@ -82,21 +82,21 @@ The developed mdFCN package contains various atlas and head models used for the 
 The developed mdFCN package contains the following data that are in specific folders within *Results\HC* or *Results\AED* directories:
 ### FC:
 -   This folder holds the output of the main script *Main_1_FC.m*; the FC for each neonate in the HC and AED groups. Alternatively, the FCs can be downloaded from
-	HC: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/ERoEGI1JET1JriyvItu7sDcBh27eTqihky6cY1BSY-PHrQ?e=Wz7VSR
-	AED: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EfRENcju9JJLoxtC2hAUGZgBSQisD_WXuGcDV6TGwoqXog?e=mpN7JP,
+-   HC: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/ERoEGI1JET1JriyvItu7sDcBh27eTqihky6cY1BSY-PHrQ?e=Wz7VSR
+-   AED: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EfRENcju9JJLoxtC2hAUGZgBSQisD_WXuGcDV6TGwoqXog?e=mpN7JP,
 ### NMF:
--   This folder contains the output of the main script *Main_3_extraction.m*; the extracted latent networks for short and long-term scores, for the five frequency bands, and for the different model orders.
--   Alternatively, the extracted networks of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/Ebvj0IVn-T9LpqhKZITmhgMBcbUeCiCyrbBnfCdNT7hEew?e=WhuMmG
--   Alternatively, the extracted networks of the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EVNFKvv3ReFBoXlRzluCa0sBBroVECsYYfgXp0Fa5B8ljg?e=5gROTH
+-   This folder contains the output of the main script *Main_3_extraction.m*; the extracted latent networks for short and long-term scores, for the five frequency bands, and for the different model orders. Alternatively, the extracted latent networks can be downloaded from
+-   HC: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/Ebvj0IVn-T9LpqhKZITmhgMBcbUeCiCyrbBnfCdNT7hEew?e=WhuMmG
+-   AED: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EVNFKvv3ReFBoXlRzluCa0sBBroVECsYYfgXp0Fa5B8ljg?e=5gROTH
 ### CPD:
--   This folder contains the output of the main script *Main_4_decomposition.m*; the decomposed latent networks for short and long-term scores and for the different model orders.
--   Alternatively, the decomposed networks of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EdGmhXzNFu5Ki1B7HwD6pDIB6pWJmikLaL6fxgy-wkoYew?e=oghBjF
--   Alternatively, the decomposed networks of the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EU-vQTmDt39NrjGiEUb9dFAB0HBZMf1Wv1PJnm8XwBKwJg?e=JpeXZx
+-   This folder contains the output of the main script *Main_4_decomposition.m*; the decomposed latent networks for short and long-term scores and for the different model orders. Alternatively, the decomposed latent networks can be downloaded from
+-   HC: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EdGmhXzNFu5Ki1B7HwD6pDIB6pWJmikLaL6fxgy-wkoYew?e=oghBjF
+-   AED: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EU-vQTmDt39NrjGiEUb9dFAB0HBZMf1Wv1PJnm8XwBKwJg?e=JpeXZx
 ### Selection:
--   This folder holds the output of the main script *Main_5_reconstruction.m*; the reconstructed networks for short and long-term scores along with their correlations to the scores and null distributions.
--   Alternatively, the reconstructed networks of the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EZiSNevWKkNMmmKeDIY0ZP8BkLcsyqL-T0xk7jYoaoeTrQ?e=sDgIki
--   Alternatively, the reconstructed networks of the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/Eagqz-gZb1RPjHlC0zkgsucBA8a2SCw7yuW1vI6eBumRCg?e=793hGn
+-   This folder holds the output of the main script *Main_5_reconstruction.m*; the reconstructed networks for short and long-term scores along with their correlations to the scores and null distributions. Alternatively, the reconstructed networks can be downloaded from
+-   HC: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EZiSNevWKkNMmmKeDIY0ZP8BkLcsyqL-T0xk7jYoaoeTrQ?e=sDgIki
+-   AED: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/Eagqz-gZb1RPjHlC0zkgsucBA8a2SCw7yuW1vI6eBumRCg?e=793hGn
 ### Verification: 
--   This folder contains the output of the main script *Main_6_system_verification.m*; the mdFCN verification results.
--   Alternatively, the verified results for the HC group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EdK61BuuZu5IuE-isHp6CoIBMLHjTWWHWGtNQm54GFSj4Q?e=viBYhX
--   Alternatively, the verified results for the AED group can be downloaded from: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EbIlt5pdq_dInE1ucgMtF4sBu5g6toR07_a_3ZYAyv-LGA?e=PF6kYW
+-   This folder contains the output of the main script *Main_6_system_verification.m*; the mdFCN verification results. Alternatively, the verification results can be downloaded from
+-   HC: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EdK61BuuZu5IuE-isHp6CoIBMLHjTWWHWGtNQm54GFSj4Q?e=viBYhX
+-   AED: https://helsinkifi-my.sharepoint.com/:u:/g/personal/almohamm_ad_helsinki_fi/EbIlt5pdq_dInE1ucgMtF4sBu5g6toR07_a_3ZYAyv-LGA?e=PF6kYW
