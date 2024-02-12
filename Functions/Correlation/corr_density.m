@@ -28,7 +28,7 @@
 % Last Modification: 12-February-2024
 %
 % Description:
-% Calculates the positive/negative correlation density.
+% Calculates the density of significant positive/negative correlations.
 
 function [Kp, Kn] = corr_density(r,p,alpha)
 N = size(r,1);

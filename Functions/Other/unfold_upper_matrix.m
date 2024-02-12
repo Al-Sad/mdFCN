@@ -28,7 +28,7 @@
 % Last Modification: 12-February-2024
 %
 % Description:
-% It Vectorizes the upper triangle of a square matrix.
+% It vectorizes the upper triangle of a square matrix.
 
 function y = unfold_upper_matrix(x)
 if(ismatrix(x))

@@ -28,8 +28,8 @@
 % Last Modification: 12-February-2024
 %
 % Description:
-% It fold the connecitivty values back to their square form with a supplied
-% fidelty matrix.
+% It folds the connectivity values back to their square form with a supplied
+% fidelity matrix.
 
 function [yb, y] = fold_connectivity(x, mask, per)
 per = 100*(1 - per);

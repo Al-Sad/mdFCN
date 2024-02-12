@@ -28,7 +28,7 @@
 % Last Modification: 12-February-2024
 %
 % Description:
-% It computes the dynamic PLI measures of connectivity.
+% It computes the dynamic PLI measures of connectivity for different frequency bands.
 
 function [PLI, wPLI, dwPLI] = dynamic_pli_measures(x,mask)
 if(~isempty(x))

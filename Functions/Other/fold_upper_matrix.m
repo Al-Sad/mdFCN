@@ -28,7 +28,7 @@
 % Last Modification: 12-February-2024
 %
 % Description:
-% It Matricizes the vectorized connectivity values into a square matrix.
+% It matricizes the vectorized connectivity values into a square matrix.
 
 function x = fold_upper_matrix(y)
 M = size(y,2);

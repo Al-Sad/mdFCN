@@ -28,7 +28,7 @@
 % Last Modification: 12-February-2024
 %
 % Description:
-% It segments the parcel segments.
+% It segments the parcel signals.
 
 function y = parcel_seg(x,L,p)
 if(~isempty(x))

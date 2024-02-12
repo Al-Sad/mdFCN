@@ -28,7 +28,7 @@
 % Last Modification: 12-February-2024
 %
 % Description:
-% It computes the static PLI measures of connectivity.
+% It computes the static PLI measures of connectivity for different frequency bands.
 
 function [PLI, wPLI, dwPLI] = static_pli_measures(x,mask)
 if(~isempty(x))
